@@ -1,0 +1,26 @@
+{
+  "name": "patra",
+  "version": "0.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "patra": "./index.js"
+  },
+  "keywords": [
+    "cli",
+    "portfolio",
+    "npx"
+  ],
+  "author": "Abhinav Patra",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "figlet": "^1.8.1",
+    "gradient-string": "^3.0.0"
+  }
+}
